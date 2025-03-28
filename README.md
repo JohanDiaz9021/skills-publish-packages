@@ -97,6 +97,12 @@ Let's trying running it.
 1. Press **Enter**.
 1. If everything went well, you will see hash value as output on your screen.
 1. Optionally, you can open [localhost:8080](http://localhost:8080) to see the page you just created.
+   Image of the localhost:8080:
+
+
+![local](https://github.com/user-attachments/assets/a3fffbd0-b6cb-4e59-b416-e51762dfb853)
+
+   
 1. _We can't automatically verify this step for you, so please continue on to the next step below!_
 <!--
   <<< Author notes: Finish >>>
